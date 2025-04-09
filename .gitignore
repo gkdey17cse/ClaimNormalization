@@ -1,0 +1,5 @@
+*.zip
+bart_model_output/
+t5_clan/
+.venv/
+*.pyc
