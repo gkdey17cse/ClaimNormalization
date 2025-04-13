@@ -1,0 +1,16 @@
+Assignment 3 | Task 2 | MT24035
+-----------------------------------
+## Output for BART-BASE Model on test.csv (provided while demo)
+
+Test Set Evaluation:
+ROUGE-L : 0.3237
+BLEU-4  : 0.1879
+BERTScore (F1): 0.8812
+
+## Output for T5-SMALL Model on test.csv (provided while demo)
+
+
+Final Evaluation on Test Set:
+BLEU-4    : 0.1881
+ROUGE-L   : 0.3448
+BERTScore : 0.8793
