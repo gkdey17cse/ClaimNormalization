@@ -1,0 +1,27 @@
+# Core libraries
+numpy
+pandas
+tqdm
+regex
+
+# Machine Learning / Evaluation
+scikit-learn
+evaluate>=0.4.0
+bert-score>=0.3.13
+rouge-score>=0.1.2
+
+# NLP-related
+transformers>=4.40.0
+datasets>=3.5.0
+contractions
+nltk
+
+# Deep Learning
+torch>=2.2.0
+
+# Jupyter support (if using notebooks)
+ipykernel
+
+
+streamlit
+sentencepiece
